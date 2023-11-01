@@ -35,7 +35,7 @@ import TextField from '@mui/material/TextField';
 import axios from 'axios';
 import OpenAI from 'openai';
 import { PowerInputOutlined } from '@mui/icons-material';
-require('dotenv').config()
+//require('dotenv').config()
 
 const lolia =  process.env.API;
 const openai = new OpenAI({
