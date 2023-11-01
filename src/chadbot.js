@@ -36,7 +36,7 @@ import axios from 'axios';
 import OpenAI from 'openai';
 import { PowerInputOutlined } from '@mui/icons-material';
 
-const lolia = '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'
+const lolia = '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'
 const openai = new OpenAI({
   apiKey: lolia,
   dangerouslyAllowBrowser: true
