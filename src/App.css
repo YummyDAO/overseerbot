@@ -315,6 +315,10 @@ img, svg {
 .none{
   display: none;
 }
+.css-5poeop{
+  background: transparent;
+  box-shadow: none;
+}
 @media (max-width: 860px){
   .mr1, .nav-items, .innernav{
     display: none;
