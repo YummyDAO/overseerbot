@@ -38,7 +38,7 @@ import { PowerInputOutlined } from '@mui/icons-material';
 
 const lolia =  process.env.API;
 const openai = new OpenAI({
-  apiKey: lolia,
+  apiKey: process.env.API,
   dangerouslyAllowBrowser: true
 });
 
