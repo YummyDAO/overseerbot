@@ -316,8 +316,14 @@ img, svg {
   display: none;
 }
 .css-5poeop{
-  background: transparent;
-  box-shadow: none;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+.css-fvipm8{
+  border-radius: 10px !important;
+}
+.css-1v4ccyo{
+  border-radius: 10px !important;
 }
 @media (max-width: 860px){
   .mr1, .nav-items, .innernav{
